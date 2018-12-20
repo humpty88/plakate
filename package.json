@@ -1,0 +1,22 @@
+{
+  "name": "plakate",
+  "version": "1.0.0",
+  "description": "plakate project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humpty88/plakate.git"
+  },
+  "keywords": [
+    "plakate"
+  ],
+  "author": "max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humpty88/plakate/issues"
+  },
+  "homepage": "https://github.com/humpty88/plakate#readme"
+}
